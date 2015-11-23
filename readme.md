@@ -25,3 +25,5 @@ Notice above, where we require `laravel-elixir-vueify`. That's all you need. Beh
 ## Step 3. Build Amazing Things
 
 You're done. :)
+
+> Having trouble? [Here's a starter example site that uses Laravel Elixir, Browserify, and Vueify](https://github.com/laracasts/Laravel-Elixir-Vueify-Setup).
