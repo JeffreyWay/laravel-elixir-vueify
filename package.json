@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-vueify",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Laravel Elixir Vueify Support",
   "main": "index.js",
   "keywords": [
@@ -20,11 +20,11 @@
     "url": "https://github.com/JeffreyWay/laravel-elixir-vueify/issues"
   },
   "dependencies": {
-    "babel-runtime": "^6.2.0",
-    "babel-plugin-transform-runtime": "^6.1.18",
+    "babel-runtime": "^5.8.0",
+    "babel-plugin-transform-runtime": "^6.1.2",
     "vue": "^1.0.8",
     "vue-hot-reload-api": "^1.2.1",
-    "vueify": "^6.0.0",
+    "vueify": "^7.0.0",
     "vueify-insert-css": "^1.0.0"
   }
 }
