@@ -1,6 +1,6 @@
 {
   "name": "laravel-elixir-vueify",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Laravel Elixir Vueify Support",
   "main": "index.js",
   "keywords": [
