@@ -6,3 +6,5 @@ Elixir.config.js.browserify.transformers.push({
     // https://github.com/vuejs/vueify#usage
     options: {}
 });
+
+Elixir.config.js.browserify.watchify.options.poll = true;
