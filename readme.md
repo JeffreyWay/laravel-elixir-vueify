@@ -2,6 +2,14 @@
 
 ## Step 1: Install
 
+If you're using Laravel Elixir 5 or below:
+
+```
+npm install laravel-elixir-vueify@1.0.6
+```
+
+Otherwise, for Laravel Elixir 6 installs and up:
+
 ```
 npm install laravel-elixir-vueify
 ```
