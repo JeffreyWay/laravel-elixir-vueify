@@ -8,3 +8,5 @@ Elixir.ready(() => {
         options: {}
     });
 });
+
+Elixir.config.js.browserify.watchify.options.poll = true;
